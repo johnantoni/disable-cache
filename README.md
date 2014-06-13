@@ -1,9 +1,9 @@
 disable-cache
 =============
 
-## desktop
+## Desktop
 
-##### chrome
+##### Chrome
 
 * [cache killer](https://chrome.google.com/webstore/detail/cache-killer/jpfbieopdmepaolggioebjmedmclkbap/related)
 
@@ -13,7 +13,7 @@ or
 * click cog
 * check "disable cache (only when dev tools is open)"
 
-##### firefox
+##### Firefox
 
     about:config
 
@@ -21,9 +21,27 @@ set:
 
     network.http.use-cache = false
 
-##### safari
+##### Safari
 
-use private browsing
+Enable Private browsing, this will disable cache & history
 
-##### mobile
+##### Internet Explorer
+
+* Go to Internet Options. 
+* On the General tab, under Browsing History click Settings. 
+* Select the "Every time I visit the webpage" radio button.
+
+CTRL+F5 should cause a page refresh with flushing the cache
+
+## Mobile
+
+##### Mobile Safari
+
+Enable Private browsing, this will disable cache & history
+
+##### Mobile Chrome
+
+##### Mobile Firefox
+
+##### Mobile IE
 
