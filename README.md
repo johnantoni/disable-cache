@@ -1,9 +1,9 @@
 disable-cache
 =============
 
-### desktop
+## desktop
 
-#### chrome
+##### chrome
 
 * [cache killer](https://chrome.google.com/webstore/detail/cache-killer/jpfbieopdmepaolggioebjmedmclkbap/related)
 
@@ -13,7 +13,7 @@ or
 * click cog
 * check "disable cache (only when dev tools is open)"
 
-#### firefox
+##### firefox
 
     about:config
 
@@ -21,9 +21,9 @@ set:
 
     network.http.use-cache = false
 
-#### safari
+##### safari
 
 use private browsing
 
-### mobile
+##### mobile
 
